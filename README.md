@@ -4,6 +4,7 @@
  Experience and customize food before buying it at the seating table in the Gulmohar Restaurant.
  
  DE677: Design for Virtual Reality
+ M.Des 2020-22, IDC, IIT Bombay
  
  Members:
  - Amit Patjoshi
